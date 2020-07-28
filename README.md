@@ -35,6 +35,13 @@
 ![Total Fare by City Type (Jan - April 2019)](https://github.com/asadca4u/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
 ###### (Figure 2: Total Fare by City Type, Jan-Apr 2019)
 
+6. Total Fare by City Type
+  - The total fare by city type was sectioned off into bins that each represent a week between Jan 1st, 2019 to April 30th, 2019. 
+  - These bins contain the sum total of fares that exchanged hands during the week, for each of the three types of localities. 
+  - Urban areas, with the greatest overall ridership, had the greatest cumulative fares exchanged during any given week, despite having the lowest average cost to the rider per trip. 
+  - Rural areas, with the lowest overall ridership, had the lowest fares exchanged during any given week, despite having the highest average cost to the rider per trip. 
+  - Suburban areas can be found in the middle of the rural and urban areas, owing to their moderate cost per trip as well as moderate ridership relative to the other two. 
+
 ### Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 1. Urban Areas:
   - Urban areas in 2019 had more drivers avaliable than rides taken, with the average driver giving out 0.68 rides for the year, which is just $11.27 of income when considering the average fare received by drivers in urban areas during 2019. 
